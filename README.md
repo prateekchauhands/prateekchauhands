@@ -1,6 +1,8 @@
 Hi there! I'm Prateek Chauhan👋
 ================================
-💻 I'm a Data Scientist & Analyst based out of Delhi, India. I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various Python, SQL, Machine Learning, Data Analytics projects that demonstrate my technical abilities and ability to apply data science & analytics concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
+💻 I'm a Data Scientist & Analyst based out of Delhi, India. I have always been fascinated with numbers and finding patterns since I was young. I am also a firm believer in the importance of art and aesthetics in our lives. And that’s how I approach analyzing big data sets. Finding patterns nobody else sees and presenting them in visually engaging ways is something that really excites me.
+
+💼 My Github profile showcases various Python, SQL, Machine Learning, Data Analytics projects that demonstrate my technical abilities and ability to apply data science & analytics concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
 
 ⚡ In my free time, I enjoy producing music and analyzing sports data. The thrill of coming up with new beats and melodies helps me keep my mind sharp while analyzing sports-related data allows me to learn new techniques and feed my passion for data and sports together.
 
