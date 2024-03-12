@@ -1,10 +1,12 @@
 Hi! My name is Prateek Chauhan
 ================================
 
-Data Scientist and Analyst
+Data Scientist & Analyst
 --------------------------
 
-I have always been fascinated with numbers and finding patterns since I was young. I am also a firm believer in the importance of art and aesthetics in our lives. And that’s how I approach analyzing big data sets. Finding patterns nobody else sees and presenting them in visually engaging ways is something that really excites me. After graduating with an MBA from MDI, Gurgaon (continuously ranked among the top 10 B-schools in India), I joined Bennett Coleman & Co. Ltd. (Times Group). I worked there for four years in the Strategy & Analytics division. I worked on a variety of projects, from predicting inventory occupancy trends to developing a predictive model that increased sales by 15% in six months.
+I have always been fascinated with numbers and finding patterns since I was young. I am also a firm believer in the importance of art and aesthetics in our lives. And that’s how I approach analyzing big data sets. Finding patterns nobody else sees and presenting them in visually engaging ways is something that really excites me.
+
+After graduating with an MBA from MDI, Gurgaon (continuously ranked among the top 10 B-schools in India), I joined Bennett Coleman & Co. Ltd. (Times Group). I worked there for four years in the Strategy & Analytics division. I worked on a variety of projects, from predicting inventory occupancy trends to developing a predictive model that increased sales by 15% in six months.
 
 *   🌍  I'm based in Delhi, India
 *   ✉️  You can contact me at [prateekchauhan.ds@gmail.com](mailto:prateekchauhan.ds@gmail.com)
