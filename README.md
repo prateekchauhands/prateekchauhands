@@ -1,14 +1,10 @@
-Hi! My name is Prateek Chauhan
+Hi there! I'm Prateek Chauhan👋
 ================================
+💻 I'm a Data Scientist & Analyst based out of Delhi, India. I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various Python, SQL, Machine Learning, Data Analytics projects that demonstrate my technical abilities and ability to apply data science & analytics concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
 
-Data Scientist & Analyst
---------------------------
+⚡ In my free time, I enjoy producing music and analyzing sports data. The thrill of coming up with new beats and melodies helps me keep my mind sharp while analyzing sports-related data allows me to learn new techniques and feed my passion for data and sports together.
 
-I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various Python, SQL, Machine Learning, Data Analytics projects that demonstrate my technical abilities and ability to apply data science & analytics concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
-
-*   🌍  I'm based in Delhi, India
-*   ✉️  You can contact me at [prateekchauhan.ds@gmail.com](mailto:prateekchauhan.ds@gmail.com)
-*   ⚡  In my free time, I enjoy producing music and analyzing sports data. The thrill of coming up with new beats and melodies helps me keep my mind sharp while analyzing sports-related data allows me to learn new techniques and feed my passion for data and sports together.
+✉️ Feel free to contact me at [prateekchauhan.ds@gmail.com](mailto:prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
 
 <a href="https://www.x.com/PrateekC_DS" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/PrateekC_DS?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
